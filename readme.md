@@ -1,8 +1,8 @@
 # HVAC Duct Calculator v1.4
 <div align="center">
-  <img src="assets/screen1.png" width="30%" alt="Main Interface">
-  <img src="assets/screen2.png" width="30%" alt="Calculator">
-  <img src="assets/screen3.png" width="30%" alt="Results">
+  <img src="assets/screen1.PNG" width="30%" alt="Main Interface">
+  <img src="assets/screen2.PNG" width="30%" alt="Calculator">
+  <img src="assets/screen3.PNG" width="30%" alt="Results">
 </div>
 
 A lightweight Python GUI tool for calculating air velocity and pressure loss in HVAC flexible duct systems.
